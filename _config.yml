@@ -1,6 +1,6 @@
 # site settings
 title: TIBA
-subtitle: | Tsinghua University
+subtitle: Tsinghua University
 email: youremailaddress@gmail.com
 description: Tsinghua International Blockchain Association /> Tsinghua University Beijing, China
 baseurl: "/TIBABlockchainCourseSpring2020" # the subpath of your site, e.g. /blog
