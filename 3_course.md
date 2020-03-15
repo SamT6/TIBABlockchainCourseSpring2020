@@ -23,12 +23,11 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a class="image">
+			<img src="assets/images/launchpresso-h5iazR-wljU-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
-			<img src="assets/images/launchpresso-h5iazR-wljU-unsplash.jpg" />
 				<header class="major">
 					<h3>Lecture 1</h3>
 				</header>
