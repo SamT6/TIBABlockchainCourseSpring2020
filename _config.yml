@@ -2,7 +2,11 @@
 title: TIBA
 subtitle: Tsinghua University
 email: youremailaddress@gmail.com
+<<<<<<< HEAD
 description: Tsinghua International Blockchain Association <br /> Tsinghua University @ Beijing, China
+=======
+description: Tsinghua International Blockchain Association <br /> Tsinghua University Beijing, China
+>>>>>>> c35c6a00afcf279bbf4c2559ea0b70498a5a09ed
 baseurl: "/TIBABlockchainCourseSpring2020" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Samuel Tang
