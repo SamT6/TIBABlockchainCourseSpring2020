@@ -3,6 +3,7 @@ title: Blockchain Course
 layout: landing
 description: 'Introduction to Blockchain Technology Spring 2020'
 image: assets/images/pic07.jpg
+permalink: "course.html"
 nav-menu: true
 ---
 
