@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Events
-description: Lorem ipsum dolor est
+description: past & upcoming events 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
