@@ -4,7 +4,7 @@ title: Blog
 landing-title: 'All posts'
 nav-menu: true
 description: null
-image: assets/images/pic05.jpg
+image: assets/images/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
 author: null
 show_tile: true
 ---

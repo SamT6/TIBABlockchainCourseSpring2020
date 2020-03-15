@@ -2,7 +2,7 @@
 layout: post
 title: Events
 description: past & upcoming events
-image: assets/images/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
+image: assets/images/alasdair-elmes-ULHxWq8reao-unsplash.jpg
 nav-menu: true
 ---
 
