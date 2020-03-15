@@ -28,7 +28,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-
+			<img src="assets/images/launchpresso-h5iazR-wljU-unsplash.jpg" />
 				<header class="major">
 					<h3>Lecture 1</h3>
 				</header>
