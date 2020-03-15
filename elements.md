@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-image: assets/images/cube.png
+image: assets/images/SharedScreenshot.jpg
 nav-menu: true
 ---
 
