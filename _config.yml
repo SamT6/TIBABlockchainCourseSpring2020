@@ -34,3 +34,9 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+header_pages:
+ - about_us.md
+ - events.md
+ - course.md
+ - blog.md
