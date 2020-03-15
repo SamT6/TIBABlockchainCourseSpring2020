@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-image: assets/images/tiba-logo.jpg
+image: assets/images/cube.png
 nav-menu: true
 ---
 

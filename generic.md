@@ -2,7 +2,7 @@
 layout: post
 title: Events
 description: past & upcoming events
-image: assets/images/tiba-logo.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
