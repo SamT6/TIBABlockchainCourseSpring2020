@@ -2,7 +2,7 @@
 layout: post
 title: Events
 description: past & upcoming events
-image: assets/images/pic11.jpg
+image: assets/images/alasdair-elmes-ULHxWq8reao-unsplash.jpg
 nav-menu: true
 ---
 
