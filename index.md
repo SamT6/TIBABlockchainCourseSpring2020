@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, this is TIBA'
 description: null
-image: null
+image: assets/images/banner.jpg
 author: null
 show_tile: false
 ---
