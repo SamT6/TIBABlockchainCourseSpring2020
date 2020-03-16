@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, this is TIBA'
+landing-title: 'Hi, this is TIBA Blockchain Class Spring 2020'
 description: null
 image: assets/images/banner.jpg
 author: null
