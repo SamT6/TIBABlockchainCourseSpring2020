@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, this is TIBA Intro to Blockchain Spring 2020'
-description: null
+landing-title: 'Hi, this is TIBA Intro to Blockchain'
+description: Spring 2020
 image: assets/images/banner.jpg
 author: null
 show_tile: false
