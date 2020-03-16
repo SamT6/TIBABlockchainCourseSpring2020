@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/launchpresso-h5iazR-wljU-unsplash.jpg" alt="" data-position="center center" />
+			<img src="assets/images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
