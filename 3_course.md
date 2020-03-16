@@ -14,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Course Syllabus</h2>
+			<h2>Syllabus</h2>
 		</header>
 		<p>In the Spring Semester of the 2019/20 academic year, TIBA offers a blockchain course series
 for the first time. Our goal is to demystify blockchain for people of all backgrounds and
@@ -48,7 +48,7 @@ more interest who already have some knowledge of blockchain.</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Lecture 2</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
