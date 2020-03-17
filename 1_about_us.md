@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: basic
 title: About us
 image: assets/images/tiba-logo-space.jpg
 nav-menu: true
