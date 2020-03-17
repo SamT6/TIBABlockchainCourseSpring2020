@@ -82,9 +82,9 @@ more interest who already have some knowledge of blockchain.</p>
 			<h2>Course Goal</h2>
 		</header>
 		<p>To help students ... </p>
-		<ul class="actions">
+		<!-- <ul class="actions">
 			<li><a href="about_us.html" class="button next">Learn more</a></li>
-		</ul>
+		</ul> -->
 	</div>
 </section>
 
