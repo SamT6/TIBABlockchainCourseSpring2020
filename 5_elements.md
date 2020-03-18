@@ -2,6 +2,7 @@
 layout: page
 title: Website Elements
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
