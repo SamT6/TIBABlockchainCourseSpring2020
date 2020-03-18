@@ -36,7 +36,7 @@ more interest who already have some knowledge of blockchain.</p>
 				</header>
 				<p>In lecture 1 we talked about the history of blockchain...</p>
 				<ul class="actions">
-					<li><a href="assets/lecture_slides/TIBA_design.pdf" class="button">Download</a></li>
+					<li><a href="assets/lecture_slides/TIBA-Intro_to_Blockchain_Spring_2020.pdf" class="button">Download</a></li>
 				</ul>
 			</div>
 		</div>
