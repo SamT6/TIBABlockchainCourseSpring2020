@@ -7,3 +7,5 @@ nav-menu: true
 ---
 
 Here's the list of events..
+
+3/18/2020 TIBA Intro to Blockchain Lecture 1
