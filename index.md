@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Our mission here at TIBA is to educate people with the potential of Blockchain Technology...
+Our mission here at TIBA is to educate people with the potential of Blockchain Technology. 
