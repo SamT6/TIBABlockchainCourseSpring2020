@@ -41,9 +41,10 @@ more interest who already have some knowledge of blockchain.</p>
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="assets/images/muhammad-haikal-sjukri-rvbd2namR7U-unsplash.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -81,7 +82,7 @@ more interest who already have some knowledge of blockchain.</p>
 		<header class="major">
 			<h2>Course Goal</h2>
 		</header>
-		<p>To help students ... </p>
+		<p>To help students with all backgrounds to understand what Blockchain is and its use cases. </p>
 		<!-- <ul class="actions">
 			<li><a href="about_us.html" class="button next">Learn more</a></li>
 		</ul> -->
