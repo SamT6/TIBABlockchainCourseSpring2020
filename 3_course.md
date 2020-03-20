@@ -27,7 +27,7 @@ more interest who already have some knowledge of blockchain.</p>
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg" alt="" data-position="center center" />
+			<img src="assets/images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg" alt="" data-position="center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ more interest who already have some knowledge of blockchain.</p>
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/muhammad-haikal-sjukri-rvbd2namR7U-unsplash.jpg" alt="" data-position="top center" />
+			<img src="assets/images/stefan-cosma-0gO3-b-5m80-unsplash.jpg" alt="" data-position="center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +54,8 @@ more interest who already have some knowledge of blockchain.</p>
 				</header>
 				<p>Cryptographic primitives </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="" class="button">Download</a></li>
+					<li><a href="" class="button">Watch</a></li>
 				</ul>
 			</div>
 		</div>
