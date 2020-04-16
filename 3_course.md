@@ -69,7 +69,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<header class="major">
 					<h3>Lecture 3</h3>
 				</header>
-				<p>Distributed Systems</p>
+				<p>Distributed Consensus Algorithm</p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture3_Distributed_Consensus_Algorithm.pdf"
 					class="button">Download</a></li>
