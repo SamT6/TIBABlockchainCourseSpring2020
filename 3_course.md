@@ -62,7 +62,7 @@ more interest who already have some knowledge of blockchain.</p>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/fab-lentz-mRMQwK513hY-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
