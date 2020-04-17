@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header>
-			<h1>TIBA, Tsinghua International Blockchain Association, is founded by a group of students from Tsinghua University in Beijing, China.  </h1>
+			<h1>TIBA, Tsinghua International Blockchain Association, is founded by a group of students from Tsinghua University in Beijing, China. We're passionate about educating people on the impact of Blockchain Technology and its potential applications. </h1>
 		</header>
 	</div>
 </section>
