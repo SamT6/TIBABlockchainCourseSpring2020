@@ -91,7 +91,7 @@ more interest who already have some knowledge of blockchain.</p>
 				</header>
 				<p>Blockchain 1.0: Bitcoin</p>
 				<ul class="actions">
-					<li><a href="assets/lecture_slides/.pdf"
+					<li><a href="assets/lecture_slides/Lecture4_TIBA_Blockchain_1.0_Bitcoin.pdf"
 					class="button">Download</a></li>
 					<li><a href="" class="button">Watch</a></li>
 				</ul>
