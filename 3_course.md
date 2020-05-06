@@ -60,6 +60,7 @@ more interest who already have some knowledge of blockchain.</p>
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/fab-lentz-mRMQwK513hY-unsplash.jpg" alt="" data-position="center center" />
@@ -78,6 +79,27 @@ more interest who already have some knowledge of blockchain.</p>
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/kyle-glenn-kvIAk3J_A1c-unsplash.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture 4</h3>
+				</header>
+				<p>Blockchain 1.0: Bitcoin</p>
+				<ul class="actions">
+					<li><a href="assets/lecture_slides/Lecture4_TIBA_Blockchain_1.0.pdf"
+					class="button">Download</a></li>
+					<li><a href="" class="button">Watch</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
 </section>
 
 <!-- Three -->
