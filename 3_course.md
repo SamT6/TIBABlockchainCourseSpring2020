@@ -55,7 +55,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<p>Cryptographic primitives </p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture2_Basic_Cryptographic_primitives_used_in_Blockchain.pdf" class="button">Download</a></li>
-					<li><a href="" class="button">Watch</a></li>
+					<!-- <li><a href="" class="button">Watch</a></li> -->
 				</ul>
 			</div>
 		</div>
@@ -74,7 +74,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture3_Distributed_Consensus_Algorithm.pdf"
 					class="button">Download</a></li>
-					<li><a href="" class="button">Watch</a></li>
+					<li><a href="https://www.youtube.com/watch?v=cfLIFRtnzsA" class="button">Watch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -93,7 +93,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture4_TIBA_Blockchain_1.0_Bitcoin.pdf"
 					class="button">Download</a></li>
-					<li><a href="" class="button">Watch</a></li>
+					<li><a href="https://www.youtube.com/watch?v=ZWeMACp7jZg&t=915s" class="button">Watch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -112,7 +112,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture5_TIBA-Intro_to_Ethereum.pdf"
 					class="button">Download</a></li>
-					<li><a href="" class="button">Watch</a></li>
+					<li><a href="https://www.youtube.com/watch?v=I3OhwnqTwhA" class="button">Watch</a></li>
 				</ul>
 			</div>
 		</div>
