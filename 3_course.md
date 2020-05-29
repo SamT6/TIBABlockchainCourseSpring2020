@@ -33,7 +33,8 @@ more interest who already have some knowledge of blockchain.</p>
 			<div class="inner">
 				<header class="major">
 					<h3>Lecture 1</h3>
-				</header>
+				</header
+				<p>Introduction to Blockchain </p>
 				<p>In lecture 1 we talked about the history of Blockchain, dated back to 1991 with digital documenting. A decade later, Bitcoin appeared and people started to value the technology behind it - Blockchain. Later, with the help of Ethereum and other applications, we're now in the era of Blockchain Applications. </p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/TIBA-Intro_to_Blockchain_Spring_2020.pdf" class="button">Download</a></li>
@@ -108,7 +109,7 @@ more interest who already have some knowledge of blockchain.</p>
 				<header class="major">
 					<h3>Lecture 4</h3>
 				</header>
-				<p>Blockchain 1.0: Bitcoin</p>
+				<p>Introduction to Ethereum</p>
 				<ul class="actions">
 					<li><a href="assets/lecture_slides/Lecture5_TIBA-Intro_to_Ethereum.pdf"
 					class="button">Download</a></li>
