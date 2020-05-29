@@ -99,6 +99,25 @@ more interest who already have some knowledge of blockchain.</p>
 		</div>
 	</section>
 
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture 4</h3>
+				</header>
+				<p>Blockchain 1.0: Bitcoin</p>
+				<ul class="actions">
+					<li><a href="assets/lecture_slides/Lecture5_TIBA-Intro_to_Ethereum.pdf"
+					class="button">Download</a></li>
+					<li><a href="" class="button">Watch</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 
 </section>
 
@@ -108,7 +127,7 @@ more interest who already have some knowledge of blockchain.</p>
 		<header class="major">
 			<h2>Course Goal</h2>
 		</header>
-		<p>To help students with all backgrounds to understand what Blockchain is and its use cases. </p>
+		<p>To help everyone with all backgrounds to understand Blockchain Technology and its use cases. </p>
 		<!-- <ul class="actions">
 			<li><a href="about_us.html" class="button next">Learn more</a></li>
 		</ul> -->
