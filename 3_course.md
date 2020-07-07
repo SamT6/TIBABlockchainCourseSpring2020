@@ -118,6 +118,62 @@ more interest who already have some knowledge of blockchain.</p>
 		</div>
 	</section>
 
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture 6</h3>
+				</header>
+				<p>Blockchain Applications</p>
+				<ul class="actions">
+					<li><a href="assets/lecture_slides/Blockchain Application.pdf"
+					class="button">Download</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture 7</h3>
+				</header>
+				<p>Enterprise Blockchain</p>
+				<ul class="actions">
+					<li><a href="assets/lecture_slides/TIBA Enterprise Blockchain.pdf"
+					class="button">Download</a></li>
+					<li><a href="https://www.youtube.com/watch?v=Txcywr9afTI" class="button">Watch</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture 8</h3>
+				</header>
+				<p>Limitations and Vulnerabilities of Blockchain</p>
+				<ul class="actions">
+					<li><a href="assets/lecture_slides/Limitations and Vulnerabilities of Blockchain.pdf"
+					class="button">Download</a></li>
+					<li><a href="https://www.youtube.com/watch?v=AU3BOKcw3No&t=57s" class="button">Watch</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 
 </section>
 
