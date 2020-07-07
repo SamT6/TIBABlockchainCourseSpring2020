@@ -138,7 +138,7 @@ more interest who already have some knowledge of blockchain.</p>
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+			<img src="assets/images/manasvita-s-9q5vptiE2TY-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -157,7 +157,7 @@ more interest who already have some knowledge of blockchain.</p>
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/jon-tyson-QL0FAxaq2z0-unsplash.jpg" alt="" data-position="center center" />
+			<img src="assets/images/nathan-dumlao-eZIzlTVgqNU-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
